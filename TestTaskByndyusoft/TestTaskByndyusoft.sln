@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTaskByndyusoft", "TestTaskByndyusoft.csproj", "{684924A9-84F7-41C0-BC10-3B0D2A047E4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestsForSumInArray", "..\TestsForSumInArray\TestsForSumInArray.csproj", "{A589C9C4-4D5A-48E8-806E-562C975E1942}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{684924A9-84F7-41C0-BC10-3B0D2A047E4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{684924A9-84F7-41C0-BC10-3B0D2A047E4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{684924A9-84F7-41C0-BC10-3B0D2A047E4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{684924A9-84F7-41C0-BC10-3B0D2A047E4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A589C9C4-4D5A-48E8-806E-562C975E1942}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A589C9C4-4D5A-48E8-806E-562C975E1942}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A589C9C4-4D5A-48E8-806E-562C975E1942}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A589C9C4-4D5A-48E8-806E-562C975E1942}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2401285-A5CF-4C73-9790-B50B6CD546C8}
+	EndGlobalSection
+EndGlobal
